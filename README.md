@@ -3,7 +3,7 @@
 </p>
 
 <div align="right">
-    Eres el mirón # <br>
+    <b>Eres el mirón # </b><br>
     <img src="https://profile-counter.glitch.me/iscalej/count.svg" align="right" />
 </div>
 
