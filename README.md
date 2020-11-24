@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://superkickoff.app" target="_blank"><img src="https://bleutecmedia.com/wp-content/uploads/2019/11/logo.png"></a>
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iscalej?label=Iscalej">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Iscalej?label=Iscalej&style=social">
+    <a href="https://twitter.com/Iscalej" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iscalej?label=Iscalej"></a>
+    <a href="https://github.com/Iscalej" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Iscalej?label=Iscalej&style=social"></a>
 </p>
 
 <div align="right">
