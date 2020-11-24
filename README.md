@@ -1,5 +1,7 @@
 <p align="center">
     <a href="https://superkickoff.app" target="_blank"><img src="https://bleutecmedia.com/wp-content/uploads/2019/11/logo.png"></a>
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iscalej?label=Iscalej">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Iscalej?label=Iscalej&style=social">
 </p>
 
 <div align="right">
@@ -9,4 +11,4 @@
 
 # Full-Stack Developer at **#SuperkickoffDevTeam**
 
-[![Estadísticas copadas](https://github-readme-stats.vercel.app/api?username=iscalej&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/iscalej)
+[![Estadísticas copadas](https://github-readme-stats.vercel.app/api?username=iscalej&count_private=true&show_icons=true&theme=radical&locale=es&custom_title=Estadísticas+copadas)](https://rigobertoalejandres.dev)
