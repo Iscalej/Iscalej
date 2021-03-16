@@ -4,11 +4,10 @@
     <a href="https://github.com/Iscalej" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Iscalej?label=Iscalej&style=social"></a>
 </p>
 
-<div align="right">
-    <b>Eres el mirón # </b><br>
+<div>
     <img src="https://profile-counter.glitch.me/iscalej/count.svg" align="right" />
 </div>
 
-# Software Developer, member of #SuperkickoffDevTeam
+### Software Developer, member of #SuperkickoffDevTeam
 
 [![Estadísticas copadas](https://github-readme-stats.vercel.app/api?username=iscalej&count_private=true&show_icons=true&theme=radical&locale=es&custom_title=Estadísticas+copadas)](https://rigobertoalejandres.dev)
